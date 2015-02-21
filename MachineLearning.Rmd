@@ -6,8 +6,10 @@ output: word_document
 output: html_document
 >>>>>>> 60ee22ff9958596e722db386107b88e5bf5ffa66
 
-Predictive Modeling of Weight Lifting Excercises
+
 ---
+Predictive Modeling of Weight Lifting Excercises
+
 INTRODUCTION
 
 Fitness band devices track excercise activities of the wearers.  A weight lifting project conducted by Velloso, Bulling, Gellersen, Ugulino and Fuks in 2013 evaluated the performance quality of the excercises executed by the device wearer. Their work focused on "the problem of specifying correct execution, the automatic and robust detection of execution mistakes, and how to provide feedback on the quality of execution to the user."
